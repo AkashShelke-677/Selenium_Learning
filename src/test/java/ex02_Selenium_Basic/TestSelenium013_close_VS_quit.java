@@ -3,7 +3,7 @@ package ex02_Selenium_Basic;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class TestSelenium_close_VS_quit {
+public class TestSelenium013_close_VS_quit {
     public static void  main(String [] args) {
 
         WebDriver driver = new FirefoxDriver();

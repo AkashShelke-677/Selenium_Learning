@@ -6,7 +6,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TestSelenium_ProjectNo_1 {
+public class TestSelenium014_ProjectNo_1 {
 
     @Description("Verify that a particular text exist on the katalon website")
     @Test

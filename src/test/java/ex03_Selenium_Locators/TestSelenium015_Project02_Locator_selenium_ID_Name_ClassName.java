@@ -13,7 +13,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TestSelenium_Project02_Locator_selenium_ID_Name_ClassName {
+public class TestSelenium015_Project02_Locator_selenium_ID_Name_ClassName {
 
 
     @Description("Verify that with the invalid login error message is website")
