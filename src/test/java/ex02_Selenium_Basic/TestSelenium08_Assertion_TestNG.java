@@ -12,6 +12,8 @@ public class TestSelenium08_Assertion_TestNG {
 
     @Description("Verify that the Title is visible. ") // Allure report annotation
     @Test
+
+
     public static void main(String [] args){
 
         WebDriver driver = new FirefoxDriver( );
