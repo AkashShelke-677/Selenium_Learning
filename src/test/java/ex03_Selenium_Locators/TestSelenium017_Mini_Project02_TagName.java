@@ -9,7 +9,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import utils.CommonToAll;
 
-public class TestSlenium017_Mini_Project02_TagName extends CommonToAll {
+public class TestSelenium017_Mini_Project02_TagName extends CommonToAll {
 
     @Owner("Akash Shelke")
     @Severity(SeverityLevel.BLOCKER)
